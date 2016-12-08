@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+body {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background: url(https://goo.gl/gTTBku) #000;
+  background-size: cover;
+  color: #fff;
+  font-size: 16px;
+}
+
+.navbar {
+  margin-bottom: 20px;
+}
+
+
