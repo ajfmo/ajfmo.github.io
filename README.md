@@ -1,9 +1,8 @@
 # Contenedor de Sitios-Web.
 ## Proyectos de Sitios Web tambien llamado **Portafolio**.
 
-
- Proyectos | Descripcion
- -----------------------
+Proyectos | Descripcion
+------------ | -------------
  
  	Tributo | Primer Proyecto para TheFreeCodeCamp
 	creative | Plantilla de Start Bootstrap
