@@ -1,5 +1,5 @@
 body {
-  font-family: "Cabin Condensed", sans-serif;
+  font-family: 'Ubuntu', sans-serif;
   padding-top: 50px;
   background-color: #557085 !important;
   background-image: url('../img/background.png');
@@ -12,15 +12,6 @@ body {
 .experiencia {}
 
 .estudios {}
-
-.foto {
-  shape-outside: circle();
-  height: auto;
-  max-width: 100%;
-  max-height: 100%;
-  padding-top: 10px;
-  display: block;
-}
 
 .tarjetas {
   background-color: white;
@@ -54,4 +45,13 @@ hr {
   height: 1px;
   background-image: -webkit-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
   background-image: -moz-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+}
+
+.contacto {
+  font-size: 12px;
+}
+
+.misma-linea {
+  clear: both;
+  display: inline;
 }
