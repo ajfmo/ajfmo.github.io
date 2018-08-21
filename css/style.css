@@ -1,10 +1,8 @@
 body {
   font-family: "Cabin Condensed", sans-serif;
   padding-top: 50px;
-  background-image: url(../img/background.png);
-  background-size: auto, cover;
-  background-color: #557085;
-
+  background-color: #557085 !important;
+  background-image: url('../img/background.png');
 }
 
 .nombre {}
@@ -33,6 +31,8 @@ body {
   box-shadow: 0px 0px 7px rgba(0, 0, 0, 0.35);
 }
 
+/* Linea el los heading */
+
 h2:after {
   background-color: #000;
   content: "";
@@ -42,6 +42,7 @@ h2:after {
   vertical-align: middle;
   width: 50%;
   left: 0.5em;
+  /* Efecto */
   border: 0;
   height: 1px;
   background-image: -webkit-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
