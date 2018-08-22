@@ -48,10 +48,18 @@ hr {
 }
 
 .contacto {
-  font-size: 12px;
+  font-size: 10px;
 }
 
-.misma-linea {
-  clear: both;
+.misma-linea h4{
   display: inline;
+}
+.misma-linea h5{
+  float: right;
+  display: inline;
+}
+
+
+.fa-phone {
+  color: #557085;
 }
