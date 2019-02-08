@@ -83,6 +83,7 @@ hr {
   -webkit-transition-duration: 0.5s;
   -moz-transition-duration: 0.5s;
   -o-transition-duration: 0.5s;
+  color: rgb(218, 218, 218);
 }
 
 /*
@@ -93,10 +94,10 @@ hr {
   color: #3B5998;
 }
 
-#social-tw:hover {
-  color: #4099FF;
+#social-ins:hover {
+  color: rgb(144, 85, 43)
 }
 
-#social-in:hover {
-  color: rgb(144, 85, 43)
+#social-li:hover {
+  color: rgb(0, 119, 181);
 }
